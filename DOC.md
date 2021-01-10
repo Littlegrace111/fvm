@@ -1,0 +1,1 @@
+在app编译的时候，这个代码库github.com/google/flutter-desktop-embedding.git的file_chooser plugin被移走了，发现在stable branch里面。
